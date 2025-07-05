@@ -66,7 +66,7 @@ FAQs
 ----
 
 **Is GB WhatsApp safe to use?**  
-Yes, GB WhatsApp is generally safe if downloaded from trusted sources like [GBApps Blog](https://gbapps.blog). Always stay updated with the latest version to avoid bans.
+Yes, GB WhatsApp is generally safe if downloaded from trusted sources like <a href="https://gbapps.blog">GB Whatsapp Download</a>. Always stay updated with the latest version to avoid bans.
 
 **Can I use GB WhatsApp and WhatsApp together?**  
 Yes, you can use both apps on the same device by registering them with different phone numbers.
